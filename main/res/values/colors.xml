@@ -1,0 +1,7 @@
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_dark">#FF0A2F7A</color>
+    <color name="blue_medium">#FF1565C0</color>
+    <color name="blue_light">#FF42A5F5</color>
+    <color name="accent_cyan">#FF80D8FF</color>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aposentadoria_pedro</string>
+
+    <string name="txt_titulo_app">Aposentadoria</string>
+    <string name="txt_subtitulo_app">Descubra quanto tempo falta</string>
+    <string name="hint_campo_idade">Digite sua idade</string>
+    <string name="helper_campo_obrigatorio">Requerido</string>
+    <string name="btn_calcular_aposentadoria">Calcular</string>
+    <string name="btn_limpar_campos">Limpar</string>
+    <string name="txt_resultado_padrao">O resultado aparecerá aqui</string>
+    <string name="txt_nome_aluno">Pedro</string>
+
+    <string-array name="array_opcoes_genero">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+</resources>
